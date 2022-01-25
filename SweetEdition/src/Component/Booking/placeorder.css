@@ -1,0 +1,42 @@
+.orderItems{
+    float:left;
+    height:300px;
+    width:250px;
+    margin:2%;
+    box-shadow:10px 10px 20px gray;
+    text-align:center;
+    
+}
+
+.orderItems>img{
+   height:200px;
+   width:100%
+}
+
+.totalcost{
+    margin-left:2%;
+    font-weight:bold!important;
+}
+
+.imgplace>img{
+    height:150px;
+    width:150px;
+    margin-left:5%;
+} 
+
+.placeprod{
+    font-size:20px;
+    font-family: cursive;
+    margin-left:5%;
+}
+
+.placecost{
+    margin-top:2%;
+    font-size:20px;
+    font-family: cursive;
+    margin-left:5%;
+}
+
+.btn-warning{
+    margin-left:45%;
+}

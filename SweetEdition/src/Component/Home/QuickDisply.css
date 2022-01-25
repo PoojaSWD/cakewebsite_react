@@ -1,0 +1,78 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+.QuiSearch{
+    margin:auto;
+    height: 450px !important;
+    width:98% !important;
+    box-shadow: 3px 1px 3px 1px #cc1680;
+    margin-top:34%!important;
+}
+
+#heading{
+    margin-left:5%;
+    font-family:cursive;
+}
+
+#maincard{
+    margin-left:5px;
+}
+.card{
+    width:30rem; 
+    height:300px; 
+    box-shadow: 3px 1px 3px 1px #888888;
+    margin-top:8%;
+    
+}
+
+
+#imgtitle{
+    font-family:cursive;
+    color:black;
+}
+
+.card>img{
+    height: 255px;
+    width: 295px;
+}
+
+#aboutcontainer{
+    box-shadow: 3px 1px 3px 1px #ee7009;
+    width:98% !important;
+    margin-top:2%;
+}
+
+
+
+.tileComponent1{
+    float:right;
+    width:45%;
+    margin-top:1%! important;
+    margin-right:5% ! important;
+}
+
+.tileComponent2{
+    float:left;
+    vertical-align:top;
+    word-wrap: break-word!important;
+    height:600px;
+    width:45%;
+    margin-top:1%! important;
+    margin-left:5% ! important;
+   
+ }
+
+ .headinginfo{
+    font-family: 'Pacifico';
+     font-size:40px;
+     font-weight:bold;
+    
+ }
+
+ .subinfo{
+    font-family:'Poppins';
+    font-size: 20px;
+    color:#75747a;
+}

@@ -1,0 +1,153 @@
+body{
+   overflow-x: hidden;
+}
+
+
+#cakedetailconatainer{
+    margin-top:7%;
+    height:550px;
+    background-color:#fff687c9;
+    box-shadow: 0 4px 8px 0 orangered, 0 6px 20px 0 orange!important; 
+}
+
+.productimage{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important; 
+    width:38%;
+    height:370px;
+    margin-top:3%;
+    float:right;
+
+}
+
+.productdesrip{
+    display:block;
+    margin-top:1%;
+    word-wrap: normal;
+    height:100px!important;
+    width:100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important;
+   
+}
+
+.proddes{
+    font-size:20px !important;
+    font-weight:bold;
+    font-family:'Poppins';
+}
+
+.subproddescrip{
+    font-family:cursive;
+    color:rgb(43, 4, 38);
+    
+}
+
+.proddetailnm{
+    margin-left:18%;
+    margin-top:5%;
+    font-size:25px;
+    color:rgb(43, 4, 38);
+    font-weight: bold;
+    font-family:cursive;
+
+}
+
+.shefword{
+    height:100px !important;
+    width:100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)!important; 
+    margin-left:18%;
+    margin-top:5%;
+}
+
+.chefheading{
+    margin-left:20%;
+    font-size:18px !important;
+    font-weight:bold;
+    font-family:cursive;
+}
+
+.subchefheading{
+    margin-top:-10%;
+    margin-left:17%;
+    font-family:cursive;
+
+}
+
+.btn-info{
+    margin-top: -30%;
+    margin-left: 62%;
+    width: 38%;
+
+   
+}
+
+
+
+
+.whatsapping{
+    height:75px !important;
+    width:75px !important;
+    margin-top: -12%;
+    margin-left: 108%;
+}
+
+.checficon{
+    height:70px;
+    width:84px;
+}
+
+#priseguideline{
+    color:rgb(43, 4, 38);
+    font-size:20px !important;
+    font-family:cursive;
+    display:block;
+    margin-left:17%;
+    margin-top:4%;
+
+}
+
+.cakeweight{
+    font-size:20px;
+    margin-left: 17%;
+    margin-top: -1%;
+    color:rgb(43, 4, 38);
+    font-family:cursive;
+}
+
+#cakedes{
+    height:100px;
+    width:100%;
+    margin-top: 1%;
+    font-family:cursive;
+   
+}
+
+#proddes{
+    margin-top: 39%;
+    font-family:cursive;
+    font-weight:bold;
+
+}
+
+#cartadd{
+    margin-top: -40%;
+}
+
+#cartremove{
+    margin-top:-40%;
+}
+
+#checkout{
+    margin-top:-40%;
+    margin-left:5%;
+    width: 20%;
+}
+
+.allbtn{
+    margin-left:10%;
+}
+
+.col-md-7 {
+    margin-left: 15%;
+    margin-top: -9%;
+}
